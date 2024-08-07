@@ -1,8 +1,8 @@
 [![Piral Logo](https://github.com/smapiot/piral/raw/main/docs/assets/logo.png)](https://piral.io)
 
-# piral-cli-vite5 &middot; [![Build Status](https://smapiot.visualstudio.com/piral-pipelines/_apis/build/status/smapiot.piral-cli-vite5?branchName=develop)](https://smapiot.visualstudio.com/piral-pipelines/_build/latest?definitionId=109&branchName=develop) ![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
+# piral-cli-vite5 &middot; [![Build Status](https://smapiot.visualstudio.com/piral-pipelines/_apis/build/status/smapiot.piral-cli-vite5?branchName=develop)](https://smapiot.visualstudio.com/piral-pipelines/_build/latest?definitionId=122&branchName=develop) ![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-The `piral-cli` plugin for using `vite` (**version 5**) as bundler. For version 4 use [`piral-cli-vite`](https://github.com/smapiot/piral-cli-vite).
+The `piral-cli` plugin for using `vite` (**version 5**) as bundler. For version 4 of `vite` use [`piral-cli-vite`](https://github.com/smapiot/piral-cli-vite).
 
 ## Important Links
 

@@ -1,0 +1,54 @@
+{
+  "name": "piral-cli-vite5",
+  "version": "1.0.0",
+  "description": "Provides debug and build capabilities for pilets and Piral instances using Vite v5.",
+  "keywords": [
+    "piral-cli",
+    "piral",
+    "plugin",
+    "vite",
+    "vite5",
+    "build",
+    "debug",
+    "bundle"
+  ],
+  "author": "smapiot",
+  "homepage": "https://piral.io",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "engines": {
+    "node": ">=20.0"
+  },
+  "files": [
+    "lib",
+    "src"
+  ],
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/smapiot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smapiot/piral-cli-vite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/smapiot/piral-cli-vite/issues"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/yargs": "^17",
+    "piral-cli": "^1"
+  },
+  "dependencies": {
+    "sass": "^1",
+    "vite": "^5",
+    "vite-plugin-codegen": "^1",
+    "vite-plugin-environment": "^1",
+    "vite-plugin-pilet": "^1"
+  }
+}

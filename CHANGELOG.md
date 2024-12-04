@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.0.1 (tbd)
+## 1.0.1 (December 4, 2024)
 
 - Updated dependencies
 

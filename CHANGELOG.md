@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.0 (tbd)
+
+- Added provenance at publish
+
 ## 1.1.1 (May 2, 2025)
 
 - Improved transformation of *index.html*

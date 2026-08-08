@@ -1,6 +1,6 @@
 [![Piral Logo](https://github.com/smapiot/piral/raw/main/docs/assets/logo.png)](https://piral.io)
 
-# [Piral CLI Vite 5](https://piral.io) &middot; [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/smapiot/piral-cli-vite5/blob/main/LICENSE) [![npm version](https://img.shields.io/npm/v/piral-cli-vite5.svg?style=flat)](https://www.npmjs.com/package/piral-cli-vite5) [![tested with jest](https://img.shields.io/badge/tested_with-jest-99424f.svg)](https://jestjs.io) [![Community Chat](https://img.shields.io/discord/1222632475449229352)](https://discord.gg/kKJ2FZmK8t)
+# [Piral CLI Vite 5](https://piral.io) &middot; [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/smapiot/piral-cli-vite5/blob/main/LICENSE) [![npm version](https://img.shields.io/npm/v/piral-cli-vite5.svg?style=flat)](https://www.npmjs.com/package/piral-cli-vite5)
 
 This plugin enables using [Vite 5](https://vitejs.dev/) as the bundler for Piral instances and pilets.
 
